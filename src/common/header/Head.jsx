@@ -7,7 +7,7 @@ const Head = () => {
         <div className='container d_flex'>
           <div className='left row'>
             <i className='fa fa-phone'></i>
-            <label> +88012 3456 7894</label>
+            <label> +1 416-836-9318</label>
             <i className='fa fa-envelope'></i>
             <label> support@marketbin.ca</label>
           </div>
