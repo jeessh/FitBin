@@ -5,7 +5,7 @@ import TopCate from "../components/top/TopCate"
 import NewArrivals from "../components/newarrivals/NewArrivals"
 import Discount from "../components/discount/Discount"
 import Shop from "../components/shops/Shop"
-import Annocument from "../components/annocument/Annocument"
+import Annocument from "../components/announcement/announcement"
 import Wrapper from "../components/wrapper/Wrapper"
 
 const Pages = ({ productItems, addToCart, CartItem, shopItems }) => {

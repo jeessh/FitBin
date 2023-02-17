@@ -1,6 +1,6 @@
 import React from "react"
 
-const Annocument = () => {
+const Announcement = () => {
   const mystyle = {
     width: "30%",
     height: "340px",
@@ -11,7 +11,7 @@ const Annocument = () => {
   }
   return (
     <>
-      <section className='annocument background'>
+      <section className='announcement background'>
         <div className='container d_flex'>
           <div className='img' style={mystyle}>
             <img src='./images/banner-1.png' width='100%' height='100%' />
@@ -25,4 +25,4 @@ const Annocument = () => {
   )
 }
 
-export default Annocument
+export default Announcement
