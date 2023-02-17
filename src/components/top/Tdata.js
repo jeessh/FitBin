@@ -1,7 +1,7 @@
 const Tdata = [
   {
     cover: "./images/top/category-1.png",
-    para: "headphone",
+    para: "headphones",
     desc: "3k orders this week",
   },
   {
@@ -21,7 +21,7 @@ const Tdata = [
   },
   {
     cover: "./images/top/category-3.png",
-    para: "sunglass",
+    para: "sunglasses",
     desc: "6k orders this week",
   },
 ]

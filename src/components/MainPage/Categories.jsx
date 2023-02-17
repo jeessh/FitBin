@@ -8,7 +8,7 @@ const Categories = () => {
     },
     {
       cateImg: "./images/category/cat2.png",
-      cateName: "Electronic",
+      cateName: "Electronics",
     },
     {
       cateImg: "./images/category/cat3.png",

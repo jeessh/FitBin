@@ -3,7 +3,7 @@ const Sdata = {
     {
       id: 7,
       cover: "./images/shops/shops-1.png",
-      name: "Mapple Earphones",
+      name: "Airpods",
       price: "180",
       discount: "25",
     },
@@ -31,7 +31,7 @@ const Sdata = {
     {
       id: 11,
       cover: "./images/shops/shops-5.png",
-      name: "Ceats wireless earphone",
+      name: "Beats wireless earphone",
       price: "80",
       discount: "20 ",
     },
@@ -52,7 +52,7 @@ const Sdata = {
     {
       id: 14,
       cover: "./images/shops/shops-9.png",
-      name: "Airpod",
+      name: "Airpods",
       price: "120",
       discount: "10",
     },

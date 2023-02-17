@@ -1,7 +1,7 @@
 const Ndata = [
   {
     cover: "./images/arrivals/arrivals1.png",
-    name: "Sunglass",
+    name: "Sunglasses",
     price: "150",
   },
   {
